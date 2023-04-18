@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emresutmen&label=Profile%20views&color=0e75b6&style=flat" alt="emresutmen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emresutmen" alt="emresutmen" /></a> </p>
-
 - 🌱 I’m currently learning **Salesforce,MERN Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emresutmen , https://trailblazer.me/id/emresutmen](https://github.com/emresutmen , https://trailblazer.me/id/emresutmen)
