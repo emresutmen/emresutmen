@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre Can Sutmen</h1>
 <h3 align="center">2x Salesforce Certified, Engineer, IT Professional, Developer</h3>
+<div align="center">
 <img src="./images/Screenshot_9.png">
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emresutmen&label=Profile%20views&color=0e75b6&style=flat" alt="emresutmen" /> </p>
 <p align="center">
  👨‍💻 All of my projects are available at 'https://github.com/emresutmen' , 'https://trailblazer.me/id/emresutmen'
