@@ -22,9 +22,9 @@
  </p>
  <br/>
  
-<p><img align="center" style="margin-top: 25px;" src="https://github-readme-streak-stats.herokuapp.com/?user=emresutmen&" alt="emresutmen" /></p>
+<p><img align="left" style="margin-top: 25px;" src="https://github-readme-streak-stats.herokuapp.com/?user=emresutmen&" alt="emresutmen" /></p>
 
-<p><img align="center" style="margin-top: 25px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=emresutmen&show_icons=true&locale=en&layout=compact" alt="emresutmen" /></p>
+<p><img align="right" style="margin-top: 25px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=emresutmen&show_icons=true&locale=en&layout=compact" alt="emresutmen" /></p>
 
 <br/>
 <br/>
