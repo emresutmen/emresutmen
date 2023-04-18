@@ -2,18 +2,16 @@
 <h3 align="center">2x Salesforce Certified, Engineer, IT Professional, Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emresutmen&label=Profile%20views&color=0e75b6&style=flat" alt="emresutmen" /> </p>
-
-
+<p align="center">
+ 👨‍💻 All of my projects are available at 'https://github.com/emresutmen' , 'https://trailblazer.me/id/emresutmen'
+ 📫 How to reach me *emresutmen93@gmail.com**
+  </p>
 
 <div align="center"> 
   <br/> <br/>
   
   ```js
-- 🌱 I’m currently learning **Salesforce,MERN Development**
-
-- 👨‍💻 All of my projects are available at https://github.com/emresutmen , https://trailblazer.me/id/emresutmen
-  
-- 📫 How to reach me **mailto:emresutmen93@gmail.com**
+- 🌱 I’m currently learning **Salesforce, MERN Development**
   
 - ⚡ Fun fact **I am not an introvert ;}**
   ```
