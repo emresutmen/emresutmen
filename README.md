@@ -24,11 +24,14 @@
  <br/>
 
 <p><img align="left" style="margin-top: 25px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=emresutmen&show_icons=true&locale=en&layout=compact" alt="emresutmen" /></p>
-
+<br/>
 <p><img align="right" style="margin-top: 25px;" src="https://github-readme-streak-stats.herokuapp.com/?user=emresutmen&" alt="emresutmen" /></p>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/emresutmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emresutmen" height="30" width="40" /></a>
