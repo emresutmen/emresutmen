@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Can Sutmen</h1>
 <h3 align="center">2x Salesforce Certified, Engineer, IT Professional, Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emresutmen&label=Profile%20views&color=0e75b6&style=flat" alt="emresutmen" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emresutmen&label=Profile%20views&color=0e75b6&style=flat" alt="emresutmen" /> </p>
 
 - 🌱 I’m currently learning **Salesforce,MERN Development**
 
@@ -11,8 +11,8 @@
 
 - ⚡ Fun fact **I am not an introvert ;}**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/emresutmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emresutmen" height="30" width="40" /></a>
 <a href="https://instagram.com/emresutmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emresutmen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/emresutmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emresutmen" height="30" width="40" /></a>
