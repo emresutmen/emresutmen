@@ -11,10 +11,10 @@
   ```js
 - 🌱 I’m currently learning **Salesforce,MERN Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emresutmen , https://trailblazer.me/id/emresutmen](https://github.com/emresutmen , https://trailblazer.me/id/emresutmen)
-
-- 📫 How to reach me **emresutmen93@gmail.com**
-
+- 👨‍💻 All of my projects are available at https://github.com/emresutmen , https://trailblazer.me/id/emresutmen
+  
+- 📫 How to reach me **mailto:emresutmen93@gmail.com**
+  
 - ⚡ Fun fact **I am not an introvert ;}**
   ```
 
